@@ -11,7 +11,6 @@ Console.WriteLine("erwewewe");
  Console.WriteLine("sfgsdg");
 
  Console.WriteLine("=======================================qwwwwww");
- Console.WriteLine("=======================================qwwwwww");
 
 
 //899999
