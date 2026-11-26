@@ -28,7 +28,7 @@ Console.WriteLine(2);
 Console.WriteLine(2);
 Console.WriteLine(2);
 Console.WriteLine(2);
-Console.WriteLine(22222222223333344);
+Console.WriteLine(11);
 ﻿
 
  
